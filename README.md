@@ -4,4 +4,4 @@ Organization profile and shared GitHub metadata for [coppergateai](https://githu
 
 The public org homepage is rendered from [`profile/README.md`](./profile/README.md).
 
-Brand masters live in [`coppergate/brand`](https://github.com/coppergateai/coppergate/tree/main/brand).
+Brand masters live in [`coppergate-architecture/brand`](https://github.com/coppergateai/coppergate-architecture/tree/main/brand).
