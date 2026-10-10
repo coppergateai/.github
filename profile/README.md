@@ -6,7 +6,7 @@ AI-native product execution — idea → brief → plan → isolated coding run 
 
 Agents build inside. High-impact actions wait for the gate.
 
-🌐 [coppergate.ai](https://coppergate.ai)
+🌐 [coppergate.ai](https://coppergate.ai) · ✉️ [hello@coppergate.ai](mailto:hello@coppergate.ai)
 
 ---
 
