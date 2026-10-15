@@ -9,7 +9,7 @@
 
   <br />
 
-  [coppergate.ai](https://coppergate.ai) · [hello@coppergate.ai](mailto:hello@coppergate.ai)
+  [coppergate.ai](https://coppergate.ai) · [hello@coppergate.ai](mailto:hello@coppergate.ai) · [X](https://x.com/coppergateai) · [Instagram](https://www.instagram.com/coppergateai/)
 </div>
 
 ---

@@ -25,4 +25,6 @@ Brand masters live in [`coppergate-architecture/brand`](https://github.com/coppe
 - **Avatar:** upload `profile/avatar.png` (white mark on `#0A0A0A`)
 - **Website:** `https://coppergate.ai`
 - **Email:** `hello@coppergate.ai`
+- **X:** [`@coppergateai`](https://x.com/coppergateai)
+- **Instagram:** [`@coppergateai`](https://www.instagram.com/coppergateai/)
 - **Pinned repos:** `coppergate`, `coppergate-architecture`, `coppergate-examples`
